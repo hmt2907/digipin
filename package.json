@@ -20,6 +20,6 @@
     "swagger-ui-express": "^5.0.1",
     "yaml": "^2.7.1",
     "yamljs": "^0.3.0",
-    "ngeohash": "^1.0.0"
+    "ngeohash2": "^1.0.0"
   }
 }
