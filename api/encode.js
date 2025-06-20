@@ -1,4 +1,4 @@
-const ngeohash = require('ngeohash');
+const ngeohash = require('ngeohash2');
 
 module.exports = (req, res) => {
   const { latitude, longitude } = req.query;
