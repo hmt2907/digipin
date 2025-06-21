@@ -19,6 +19,6 @@
     "morgan": "^1.10.0",
     "swagger-ui-express": "^5.0.1",
     "yaml": "^2.7.1",
-    "yamljs": "^0.3.0"
+    "digipin": "github:CEPT-VZG/digipin"
   }
 }
